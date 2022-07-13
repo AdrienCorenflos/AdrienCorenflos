@@ -1,4 +1,4 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> there!
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there!
 
 I am _Adrien_, a late starting French PhD student, formerly quantitative researcher, clocking 30 full rotations around the :sun_with_face:. Technically, I make a living by computing integrals, hard ones, but integrals nonetheless. 
 
